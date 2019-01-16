@@ -239,10 +239,10 @@ Jeżeli chcesz usunąć jedynie fragment zaznaczenia:
 * [Python](https://pl.python.org/) - Główna technologia
 * [Tkinter](https://docs.python.org/3/library/tk.html) - Interfejs użytkownika
 * [pyGame](https://www.pygame.org/news) - Ekran podglądu
-* [pydub] (https://pypi.org/project/pydub/) - Manipulacja dźwiękiem
-* [openCV] (https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html) - Renderowanie filmu
-* [mutool] (https://mupdf.com/index.html) - Ładowanie plików .PDF
-* [FFmpeg] (https://www.ffmpeg.org/) - Łączenie dźwięku z filmem
+* [pydub](https://pypi.org/project/pydub/) - Manipulacja dźwiękiem
+* [openCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html) - Renderowanie filmu
+* [mutool](https://mupdf.com/index.html) - Ładowanie plików .PDF
+* [FFmpeg](https://www.ffmpeg.org/) - Łączenie dźwięku z filmem
 
 ## Autorzy
 
