@@ -228,38 +228,25 @@ Jeżeli chcesz usunąć jedynie fragment zaznaczenia:
 1. Kliknij LPM na zaznaczenie w podglądzie (zmieni kolor na żółty)
 2. Trzymając wciśnięty klawisz CTRL kliknij LPM w dwa przeciwległe punkty (zostanie utworzony czerwony prostokąt)
 2a. Jeżeli chcesz odznaczyć prostokąt wciśnij CTRL + PPM
-2b. Jeżeli chcesz poprawić drugi wierzchołek po prostu wciśnij CTRL + LPM
+2b. Jeżeli chcesz poprawić drugi wierzchołek po prostu jeszcze raz wciśnij CTRL + LPM
 2c. Jeżeli chcesz poprawić pierwszy wierzchołek musisz wykonać punkt 2a. a następnie powtórzyć punkt 2.
 3. Teraz wciskając klawisz DELETE usuniesz fragmenty zaznaczenia które jest zaznaczone (jest żółte) oraz znalazło się w czerwonym prostokącie.
 ```
 
 
-## Built With
+## Stworzono z pomocą
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python](https://pl.python.org/) - Główna technologia
+* [Tkinter](https://docs.python.org/3/library/tk.html) - Interfejs użytkownika
+* [pyGame](https://www.pygame.org/news) - Ekran podglądu
+* [pydub] (https://pypi.org/project/pydub/) - Manipulacja dźwiękiem
+* [openCV] (https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html) - Renderowanie filmu
+* [mutool] (https://mupdf.com/index.html) - Ładowanie plików .PDF
+* [FFmpeg] (https://www.ffmpeg.org/) - Łączenie dźwięku z filmem
 
-## Contributing
+## Autorzy
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* **Tomasz Burewicz** - *Projektowanie i tworzenie interfejsu aplikacji, wersja Linuxowa, wersja serwerowa* - [GitHub](https://github.com/Serq0) [Email](https://mailto:janczurasergiusz@gmail.com)
+* **Bartosz Gąsior** - *Oś czasu, nagrywanie i odtwarzanie kursora, dźwięku, zaznaczeń, mechanizm projektów, odczyt .pdf* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Sergiusz Jańczura** - *Renderowanie dźwięków, filmów, testowanie aplikacji, wersja serwerowa, organizacja projektem* - [PurpleBooth](https://github.com/PurpleBooth)
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
