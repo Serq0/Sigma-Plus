@@ -214,6 +214,25 @@ Stwórz nowy projekt:
 CTRL + N
 ```
 
+### Edycja zaznaczeń
+
+Jeżeli nie chcesz usuwać scieżki dźwiekowej która została nagrana wraz z zaznaczeniem na slajdzie a chcesz pozbyć się tego zaznaczenia to najprostszym sposobem będzie:
+```
+1. Kliknij LPM na zaznaczenie w podglądzie (zmieni kolor na żółty)
+2. Wciśnij klawisz DELETE
+```
+Zaznaczenie zostanie usunięte.
+
+Jeżeli chcesz usunąć jedynie fragment zaznaczenia:
+```
+1. Kliknij LPM na zaznaczenie w podglądzie (zmieni kolor na żółty)
+2. Trzymając wciśnięty klawisz CTRL kliknij LPM w dwa przeciwległe punkty (zostanie utworzony czerwony prostokąt)
+2a. Jeżeli chcesz odznaczyć prostokąt wciśnij CTRL + PPM
+2b. Jeżeli chcesz poprawić drugi wierzchołek po prostu wciśnij CTRL + LPM
+2c. Jeżeli chcesz poprawić pierwszy wierzchołek musisz wykonać punkt 2a. a następnie powtórzyć punkt 2.
+3. Teraz wciskając klawisz DELETE usuniesz fragmenty zaznaczenia które jest zaznaczone (jest żółte) oraz znalazło się w czerwonym prostokącie.
+```
+
 
 ## Built With
 
