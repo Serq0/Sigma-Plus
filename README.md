@@ -62,6 +62,27 @@ Gdy plik już wybierzemy załadowany on zostanie do programu. Wtedy możemy przy
 Nagrywaj
 ```
 Rozpocznie ona nagrywanie dźwięku, ruchu kursora oraz ewentualnych zaznaczeń co będzie widoczne na dolnym pasku (osi czasu) w kolorze jasnoniebieskim oraz różowym dla zaznaczeń.
+Jeżeli Nagrywanie jest włączone przesuń kursor na ekran podglądu slajdu (po prawej stronie), kliknij lewy przycisk myszy, przytrzymaj go i przeciągnij w inny punkt na slajdzie oraz powiedz "Hello World".
+Następnie kliknij przycisk
+```
+Zatrzymaj
+```
+Jeżeli już to zrobiłeś kliknij przycisk
+```
+Zresetuj odtwarzanie
+```
+Przeniesie on suwak odtwarzania na początek.
+Teraz kliknij
+```
+Odtwórz
+```
+Jeżeli już obejrzałeś swoje kilka sekund twórczości możesz wyrenderować filmik.
+Kliknij przycisk
+```
+Renderuj film
+```
+i wybierz lokalizację w którym ma on zostać zapisany.
+Po skończonym renderowaniu odtwórz filmik za pomocą odtwarzacza obsługującego format .mp4.
 
 ### And coding style tests
 
