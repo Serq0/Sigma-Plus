@@ -251,5 +251,5 @@ Jeżeli chcesz usunąć jedynie fragment zaznaczenia:
 
 * **Tomasz Burewicz** - *Projektowanie i tworzenie interfejsu aplikacji, wersja Linuxowa, wersja serwerowa* - [GitHub](https://github.com/pazdan1994)
 * **Bartosz Gąsior** - *Oś czasu, nagrywanie i odtwarzanie kursora, dźwięku, zaznaczeń, mechanizm projektów, odczyt .pdf* - [GitHub](https://github.com/saekiamae)
-* **Sergiusz Jańczura** - *Renderowanie dźwięków, filmów, testowanie aplikacji, wersja serwerowa, organizacja projektem* - [GitHub](https://github.com/Serq0) janczurasergiusz_@_gmail_dot_com
+* **Sergiusz Jańczura** - *Renderowanie dźwięków, filmów, testowanie aplikacji, wersja serwerowa, organizacja projektem* - [GitHub](https://github.com/Serq0)
 
