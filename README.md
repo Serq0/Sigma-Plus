@@ -1,6 +1,6 @@
 # SigmaPlus
 
-SigmaPlus to program pozwalający stworzyć prezentację lub tutorial w prosty sposób.
+SigmaPlus to program pozwalający stworzyć prezentację lub tutorial w formacie wideo w prosty sposób.
 
 ## Instrukcja
 
