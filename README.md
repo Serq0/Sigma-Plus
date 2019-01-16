@@ -14,39 +14,54 @@ Zalecane wymagania do uruchomienia programu
 ```
 System operacyjny: Windows lub Linux (64bit)
 Pamięć RAM: 1GB
-Wolne miejsce na dysku: 2GB
+Wolne miejsce na dysku: 1GB
 
 ```
 
 ### Instalacja
 
-Program wystarczy pobrać z zakładki releases i wypakować.
+Program wystarczy [pobrać](https://github.com/Serq0/Sigma-Plus/releases "pobierz SigmaPlus") i wypakować.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+System operacyjny Windows:
 
 ```
-until finished
+Uruchom S+.exe
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+System operacyjny Linux:
 
 ```
-Give an example
+TODO
 ```
+
+
+## Pierwsze uruchomienie
+
+Krótki opis jak obsługiwać program w podstawowy sposób
+
+### Pierwsze okno
+
+Zaraz po uruchomieniu programu pojawi się okno powitalne.
+
+Do wyboru są 4 opcje:
+
+```
+Nowy Projekt
+Załaduj Projekt
+O nas
+Zakończ
+```
+
+Wybieramy
+```
+Nowy Projekt
+```
+Program poprosi nas o wskazanie pliku o rozszerzeniu .PDF.
+Gdy plik już wybierzemy załadowany on zostanie do programu. Wtedy możemy przystąpić do stworzenia pierwszego slajdu. Najprościej będzie gdy klikniesz opcję
+```
+Nagrywaj
+```
+Rozpocznie ona nagrywanie dźwięku, ruchu kursora oraz ewentualnych zaznaczeń co będzie widoczne na dolnym pasku (osi czasu) w kolorze jasnoniebieskim oraz różowym dla zaznaczeń.
 
 ### And coding style tests
 
