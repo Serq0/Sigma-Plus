@@ -20,7 +20,7 @@ Wolne miejsce na dysku: 1GB
 
 ### Instalacja
 
-Program wystarczy [pobrać](https://github.com/Serq0/Sigma-Plus/releases "pobierz SigmaPlus") i wypakować.
+Program wystarczy [pobrać](https://github.com/Serq0/Sigma-Plus/releases "pobierz SigmaPlus"), wypakować i uruchomić.
 
 System operacyjny Windows:
 
