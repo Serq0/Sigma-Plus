@@ -2,10 +2,9 @@
 
 SigmaPlus to program pozwalający stworzyć prezentację lub tutorial w prosty sposób.
 
-## Pierwsze Kroki
+## Instrukcja
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+Zapoznaj się z poniższymi tematami by dowiedzieć się więcej.
 
 ### Wymagania
 
@@ -244,9 +243,13 @@ Jeżeli chcesz usunąć jedynie fragment zaznaczenia:
 * [mutool](https://mupdf.com/index.html) - Ładowanie plików .PDF
 * [FFmpeg](https://www.ffmpeg.org/) - Łączenie dźwięku z filmem
 
+## Coś nie działa?
+
+[Zgłoś błąd tutaj](https://github.com/Serq0/Sigma-Plus/issues)
+
 ## Autorzy
 
-* **Tomasz Burewicz** - *Projektowanie i tworzenie interfejsu aplikacji, wersja Linuxowa, wersja serwerowa* - [GitHub](https://github.com/Serq0) [Email](https://mailto:janczurasergiusz@gmail.com)
-* **Bartosz Gąsior** - *Oś czasu, nagrywanie i odtwarzanie kursora, dźwięku, zaznaczeń, mechanizm projektów, odczyt .pdf* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Sergiusz Jańczura** - *Renderowanie dźwięków, filmów, testowanie aplikacji, wersja serwerowa, organizacja projektem* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Tomasz Burewicz** - *Projektowanie i tworzenie interfejsu aplikacji, wersja Linuxowa, wersja serwerowa* - [GitHub](https://github.com/pazdan1994)
+* **Bartosz Gąsior** - *Oś czasu, nagrywanie i odtwarzanie kursora, dźwięku, zaznaczeń, mechanizm projektów, odczyt .pdf* - [GitHub](https://github.com/saekiamae)
+* **Sergiusz Jańczura** - *Renderowanie dźwięków, filmów, testowanie aplikacji, wersja serwerowa, organizacja projektem* - [GitHub](https://github.com/Serq0) janczurasergiusz_@_gmail_dot_com
 
