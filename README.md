@@ -243,7 +243,7 @@ Jeżeli chcesz usunąć jedynie fragment zaznaczenia:
 * [mutool](https://mupdf.com/index.html) - Ładowanie plików .PDF
 * [FFmpeg](https://www.ffmpeg.org/) - Łączenie dźwięku z filmem
 
-## Coś nie działa?
+## Coś nie działa prawidłowo?
 
 [Zgłoś błąd tutaj](https://github.com/Serq0/Sigma-Plus/issues)
 
