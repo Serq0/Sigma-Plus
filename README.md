@@ -30,13 +30,13 @@ Uruchom S+.exe
 System operacyjny Linux:
 
 ```
-Zainstaluj pakiet ffmpeg:
+Zainstaluj pakiet ffmpeg (jest to jednorazowa instalacja):
 sudo add-apt-repository ppa:jonathonf/ffmpeg-4
 
 sudo apt-get update
 sudo apt-get install ffmpeg
 
-Uruchom plik start
+Uruchom plik przy pomocy ./start
 ```
 
 
